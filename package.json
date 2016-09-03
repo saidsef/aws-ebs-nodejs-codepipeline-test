@@ -18,5 +18,12 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
-  }
+  },
+ "repository": {
+   "type": "git",
+   "url": "https://github.com/saidsef/aws-ebs-nodejs-codepipeline-test.git"
+ },
+ "bugs": {
+   "url": "https://github.com/saidsef/aws-ebs-nodejs-codepipeline-test/issues"
+ }
 }
