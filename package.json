@@ -1,11 +1,11 @@
 {
   "name": "aws-ebs-nodejs-codepipeline-test",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "NodeJS CodePipeline EBS test application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
-    "start": "node index.js"
+    "start": "npm index.js"
   },
   "keywords": [
     "NodeJS",
