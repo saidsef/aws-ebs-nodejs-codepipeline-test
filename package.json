@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "npm install",
+    "deploy": "echo \"there is no build script\" && exit 0"
   },
   "keywords": [
     "NodeJS",
